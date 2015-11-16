@@ -2,3 +2,4 @@
   - Brno
   - Sushi
   - Crossfit
+  - Pink
